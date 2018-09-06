@@ -17,6 +17,7 @@ public class HelloAction extends ActionSupport {
     }
 
     public String hello() {
+
         return SUCCESS;
     }
 }
