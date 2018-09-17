@@ -12,6 +12,12 @@
         <option value="$PROJECT_DIR$/springmvc1/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springmvc1/mybatis1/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc1/mybatis2/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" assert-keyword="false" jdk-15="false">
     <output url="file://$PROJECT_DIR$/out" />
