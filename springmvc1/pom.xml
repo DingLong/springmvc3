@@ -10,6 +10,7 @@
 		<module>mybatis2</module>
 		<module>mybatis1</module>
 		<module>ssm1</module>
+		<module>ssm2</module>
 	</modules>
 	<name>springmvc1 Maven Webapp</name>
   <url>http://maven.apache.org</url>

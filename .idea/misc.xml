@@ -16,6 +16,8 @@
       <set>
         <option value="$PROJECT_DIR$/springmvc1/mybatis1/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc1/mybatis2/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc1/ssm1/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc1/ssm2/pom.xml" />
       </set>
     </option>
   </component>
